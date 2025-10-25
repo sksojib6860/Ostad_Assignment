@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       title: 'Assignment 13',
-      home: HomePage(),
+      home: HomeScreen(),
     );
   }
 }
